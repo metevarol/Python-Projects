@@ -1,0 +1,12 @@
+apple produce_fruit 1.19
+orange produce_fruit 1.09
+banana produce_fruit 0.65
+grapes produce_fruit 0.95
+cantaloupe produce_fruit 1.39
+tomato produce_veg 0.59 
+squash produce_veg 0.89 
+onions produce_veg 0.49 
+garlic produce_veg 0.49 
+milk dairy 3.29 
+butter dairy 1.29 
+cheddar dairy 1.99
